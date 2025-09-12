@@ -37,6 +37,6 @@ ninja = {
 console.log(ninja);
 console.log(ninja.age);
 console.log(ninja.name);
-console.log([0]);
+console.log(ninja.skills[0]);
 
 
